@@ -44,8 +44,9 @@ public class angel : MonoBehaviour {
 	public void taped(){
 
 		if (Taped) {
-
+			GM.ComboTime += 15;
 			GM.Score += 10;
+			GM.Creatures += 1;
 			Destroy (gameObject);
 		} else {
 
