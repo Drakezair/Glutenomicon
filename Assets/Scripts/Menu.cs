@@ -8,4 +8,9 @@ public class Menu : MonoBehaviour {
 	public void startButton(){
 		SceneManager.LoadScene("InGame");
 	}
+
+	public void exitButton(){
+		Application.Quit ();
+		Debug.Log ("SE CERRO A LA VERGA");
+	}
 }

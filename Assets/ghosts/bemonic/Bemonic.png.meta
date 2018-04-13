@@ -1,0 +1,2182 @@
+fileFormatVersion: 2
+guid: 7310b164a7f18eb49a8720c3439c50ec
+timeCreated: 1523302302
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bemonic_0
+    21300002: Bemonic_1
+    21300004: Bemonic_2
+    21300006: Bemonic_3
+    21300008: Bemonic_4
+    21300010: Bemonic_5
+    21300012: Bemonic_6
+    21300014: Bemonic_7
+    21300016: Bemonic_8
+    21300018: Bemonic_9
+    21300020: Bemonic_10
+    21300022: Bemonic_11
+    21300024: Bemonic_12
+    21300026: Bemonic_13
+    21300028: Bemonic_14
+    21300030: Bemonic_15
+    21300032: Bemonic_16
+    21300034: Bemonic_17
+    21300036: Bemonic_18
+    21300038: Bemonic_19
+    21300040: Bemonic_20
+    21300042: Bemonic_21
+    21300044: Bemonic_22
+    21300046: Bemonic_23
+    21300048: Bemonic_24
+    21300050: Bemonic_25
+    21300052: Bemonic_26
+    21300054: Bemonic_27
+    21300056: Bemonic_28
+    21300058: Bemonic_29
+    21300060: Bemonic_30
+    21300062: Bemonic_31
+    21300064: Bemonic_32
+    21300066: Bemonic_33
+    21300068: Bemonic_34
+    21300070: Bemonic_35
+    21300072: Bemonic_36
+    21300074: Bemonic_37
+    21300076: Bemonic_38
+    21300078: Bemonic_39
+    21300080: Bemonic_40
+    21300082: Bemonic_41
+    21300084: Bemonic_42
+    21300086: Bemonic_43
+    21300088: Bemonic_44
+    21300090: Bemonic_45
+    21300092: Bemonic_46
+    21300094: Bemonic_47
+    21300096: Bemonic_48
+    21300098: Bemonic_49
+    21300100: Bemonic_50
+    21300102: Bemonic_51
+    21300104: Bemonic_52
+    21300106: Bemonic_53
+    21300108: Bemonic_54
+    21300110: Bemonic_55
+    21300112: Bemonic_56
+    21300114: Bemonic_57
+    21300116: Bemonic_58
+    21300118: Bemonic_59
+    21300120: Bemonic_60
+    21300122: Bemonic_61
+    21300124: Bemonic_62
+    21300126: Bemonic_63
+    21300128: Bemonic_64
+    21300130: Bemonic_65
+    21300132: Bemonic_66
+    21300134: Bemonic_67
+    21300136: Bemonic_68
+    21300138: Bemonic_69
+    21300140: Bemonic_70
+    21300142: Bemonic_71
+    21300144: Bemonic_72
+    21300146: Bemonic_73
+    21300148: Bemonic_74
+    21300150: Bemonic_75
+    21300152: Bemonic_76
+    21300154: Bemonic_77
+    21300156: Bemonic_78
+    21300158: Bemonic_79
+    21300160: Bemonic_80
+    21300162: Bemonic_81
+    21300164: Bemonic_82
+    21300166: Bemonic_83
+    21300168: Bemonic_84
+    21300170: Bemonic_85
+    21300172: Bemonic_86
+    21300174: Bemonic_87
+    21300176: Bemonic_88
+    21300178: Bemonic_89
+    21300180: Bemonic_90
+    21300182: Bemonic_91
+    21300184: Bemonic_92
+    21300186: Bemonic_93
+    21300188: Bemonic_94
+    21300190: Bemonic_95
+    21300192: Bemonic_96
+    21300194: Bemonic_97
+    21300196: Bemonic_98
+    21300198: Bemonic_99
+    21300200: Bemonic_100
+    21300202: Bemonic_101
+    21300204: Bemonic_102
+    21300206: Bemonic_103
+    21300208: Bemonic_104
+    21300210: Bemonic_105
+    21300212: Bemonic_106
+    21300214: Bemonic_107
+    21300216: Bemonic_108
+    21300218: Bemonic_109
+    21300220: Bemonic_110
+    21300222: Bemonic_111
+    21300224: Bemonic_112
+    21300226: Bemonic_113
+    21300228: Bemonic_114
+    21300230: Bemonic_115
+    21300232: Bemonic_116
+    21300234: Bemonic_117
+    21300236: Bemonic_118
+    21300238: Bemonic_119
+    21300240: Bemonic_120
+    21300242: Bemonic_121
+    21300244: Bemonic_122
+    21300246: Bemonic_123
+    21300248: Bemonic_124
+    21300250: Bemonic_125
+    21300252: Bemonic_126
+    21300254: Bemonic_127
+    21300256: Bemonic_128
+    21300258: Bemonic_129
+    21300260: Bemonic_130
+    21300262: Bemonic_131
+    21300264: Bemonic_132
+    21300266: Bemonic_133
+    21300268: Bemonic_134
+    21300270: Bemonic_135
+    21300272: Bemonic_136
+    21300274: Bemonic_137
+    21300276: Bemonic_138
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bemonic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1912
+        width: 129
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1912
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1920
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1910
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1911
+        width: 110
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_5
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1909
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_6
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1911
+        width: 110
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_7
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1915
+        width: 112
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_8
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1912
+        width: 108
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1781
+        width: 124
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1772
+        width: 117
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1772
+        width: 117
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1778
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_13
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1781
+        width: 113
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_14
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1770
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_15
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1772
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_16
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1773
+        width: 111
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_17
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1777
+        width: 112
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_18
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1779
+        width: 110
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_19
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1774
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1654
+        width: 130
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1632
+        width: 117
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1632
+        width: 117
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1638
+        width: 117
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1639
+        width: 113
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_25
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1641
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_26
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1632
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_27
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1635
+        width: 109
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_28
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1638
+        width: 107
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_29
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1640
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_30
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1636
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1514
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1496
+        width: 120
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1495
+        width: 119
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_34
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1498
+        width: 117
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_35
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1500
+        width: 113
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_36
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1501
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_37
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1503
+        width: 111
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_38
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1492
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_39
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1496
+        width: 107
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_40
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1499
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_41
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1501
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1358
+        width: 118
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1358
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1356
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_45
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1359
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_46
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1359
+        width: 113
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_47
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1360
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_48
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1362
+        width: 111
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_49
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1364
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_50
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1353
+        width: 107
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_51
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1357
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_52
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1357
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_53
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1363
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1219
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1218
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_56
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1216
+        width: 113
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_57
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1218
+        width: 115
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_58
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1220
+        width: 113
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_59
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1220
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_60
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1220
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_61
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1225
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_62
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1215
+        width: 107
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_63
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1219
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_64
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1219
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1079
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_66
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1079
+        width: 116
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_67
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1082
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_68
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1080
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_69
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1080
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_70
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1080
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_71
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1080
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_72
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1086
+        width: 107
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_73
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1077
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_74
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1081
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 946
+        width: 122
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_76
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 948
+        width: 121
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_77
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 948
+        width: 119
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_78
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 940
+        width: 111
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_79
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 940
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_80
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 940
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_81
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 942
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_82
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 946
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_83
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 939
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 806
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_85
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 806
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_86
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 810
+        width: 113
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_87
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 816
+        width: 117
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_88
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 800
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_89
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 802
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_90
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 802
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_91
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 808
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 668
+        width: 117
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_93
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 669
+        width: 114
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_94
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 671
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_95
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 675
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_96
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 676
+        width: 111
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_97
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 662
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_98
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 662
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_99
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 664
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_100
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 670
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_101
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 528
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_102
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 528
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_103
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 530
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_104
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 532
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_105
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 536
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_106
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 537
+        width: 111
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_107
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 523
+        width: 107
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_108
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 524
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_109
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 526
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_110
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 532
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 113
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_112
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 388
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_113
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 391
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_114
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 392
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_115
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 392
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_116
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 397
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_117
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 397
+        width: 107
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_118
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 386
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_119
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 386
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_120
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 388
+        width: 105
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_121
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 248
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_122
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 248
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_123
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 252
+        width: 113
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_124
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 252
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_125
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 253
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_126
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 253
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_127
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 258
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_128
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 260
+        width: 109
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_129
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_130
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 108
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_131
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 113
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_132
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 112
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_133
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 114
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_134
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 114
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_135
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 118
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_136
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 118
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_137
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 118
+        width: 107
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bemonic_138
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 118
+        width: 107
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

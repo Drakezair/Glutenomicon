@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour {
 
 
 	//CRIATURAS
-
+	[HideInInspector]
 	public int Creatures;
 
 	public Text CountCreatures;
@@ -19,12 +19,14 @@ public class GameManager : MonoBehaviour {
 	[SerializeField]
 	float MaxScore;
 
+	[HideInInspector]
 	public float Score;
 
 
 	//COMBO BAR
 	public Slider ComboBar;
 
+	[HideInInspector]
 	public float ComboTime;
 
 	[SerializeField]

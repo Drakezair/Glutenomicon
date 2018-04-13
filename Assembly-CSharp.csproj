@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\ghosts\angel\angel.cs" />
+     <Compile Include="Assets\ghosts\bemonic\Bemonic.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\Menu.cs" />
      <Compile Include="Assets\Scripts\Objeto.cs" />
